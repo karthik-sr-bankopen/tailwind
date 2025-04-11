@@ -83,3 +83,14 @@ Track your journey from **Beginner → Expert+** with skill checkpoints and proj
 
 ### 📌 Tip:
 Use GitHub Issues or Projects to manage your progress, and commit your learning as part of a public repo or dev portfolio!
+
+---
+
+## 💡 Tips for Tracking
+
+- Use [ ] and [x] to check things off as you go  
+- Link project repos under each level as you complete them  
+- Share your journey in public! (Twitter, GitHub, dev.to)
+
+---
+
